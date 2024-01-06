@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Basil-Gomaa
-- 👀 I’m interested in Web dev
-- 🌱 I’m currently learning Html/CSS/JS/React.js
-- 💞️ I’m looking to collaborate on Web projects
-- 📫 How to reach me basilgomaa23@gmail.com
+- Hey, I’m Basil
+- I’m 17
+- I’m interested in SWE
+- I’m currently learning React.js/Node.js
+- I’m looking to collaborate on Web projects
+- How to reach me basilgomaa23@gmail.com
 
 <!---
 Basil-Gomaa/Basil-Gomaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
