@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAGM9WAIyWw/HjpzyLYX9pQUTJLr9hfQwQ/view)]()
+[![MasterHead](https://raw.githubusercontent.com/Basil-Gomaa/Basil-Gomaa/main/linkedIn%20-%20background-image.png)]()
 
 <h1 align="center">Hi 👋, I'm Basil</h1>
 <h3 align="center">A passionate React front-end developer</h3>
