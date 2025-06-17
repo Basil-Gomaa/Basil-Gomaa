@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/19bsl" target="blank"><img src="https://img.shields.io/twitter/follow/19bsl?logo=twitter&style=for-the-badge" alt="19bsl" /></a> </p>
 
-- 🔭 I’m currently working on **WorldWise**
+- 🔭 I’m currently working on **AZTrackonomy**
 
-- 🌱 I’m currently learning **React,Redux**
+- 🌱 I’m currently learning **NextJs 15**
 
 - 💬 Ask me about **React**
 
